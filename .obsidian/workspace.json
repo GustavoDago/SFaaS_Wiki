@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "0bc24c0e3b90f1ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "65d459b6b77d1bfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "991181d2bd331064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Oportunidades/Esceptico_Quota_Intelligence_China.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esceptico_Quota_Intelligence_China"
+            }
+          },
+          {
+            "id": "55992a3eda896997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Oportunidades/Trade_Compliance_Platform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trade_Compliance_Platform"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0ce331ebc76becf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca841269bfb14144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8c4262ebcd51411",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "dbbcf99bd351357c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "70ed856e5f08ee45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "right": {
+    "id": "b07f12690a4c1d46",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ac8d93f757463f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "434fdef9e2b2926f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bienvenido"
+            }
+          },
+          {
+            "id": "a90b4d5a7a8f82c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "b3bf5889425a329a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e616263bfdbb054b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "5df131d5cf134fda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "55992a3eda896997",
+  "lastOpenFiles": [
+    "30_Oportunidades/Esceptico_Quota_Intelligence_China.md",
+    "30_Oportunidades/Quota_Intelligence_China.md",
+    "30_Oportunidades/Trade_Compliance_Platform.md",
+    "00_Raw_Sources/analisis_esceptico_resumen_22-4.md",
+    "30_Oportunidades/Esceptico_Trazabilidad_Agro_Exportadora.md",
+    "30_Oportunidades/Esceptico_Carbon_Compliance_B2B.md",
+    "30_Oportunidades/Esceptico_Airport_Tech_Stack.md",
+    "30_Oportunidades/Airport_Tech_Stack.md",
+    "20_Conceptos/Modelo_Datos_LabMatch.md",
+    "30_Oportunidades/Aduana_as_a_Service.md",
+    "30_Oportunidades/Esceptico_Logistica_Privada_Corredores.md",
+    "30_Oportunidades/Esceptico_Certificacion_Inocuidad_Privada.md",
+    "30_Oportunidades/Esceptico_Aduana_as_a_Service.md",
+    "10_Entidades/ANPYN_Hidrovia.md",
+    "00_Raw_Sources/2026-04-22_Noticias_Hidrovia_Apertura_Sobre2.md",
+    "00_Raw_Sources/2026-04-22_Noticias_Aduana_Conflicto_Reforma_Codigo.md",
+    "00_Raw_Sources/2026-04-22_BORA_DNU_41_Resoluciones_Anticipadas_Aduana.md",
+    "log.md",
+    "30_Oportunidades/Carbon_Compliance_B2B.md",
+    "20_Conceptos/Resoluciones_Anticipadas.md",
+    "10_Entidades/Secretaria_Industria_Comercio.md",
+    "Prompt escéptico.md",
+    "20_Conceptos/Aduana_en_Factoria.md",
+    "20_Conceptos/Blockchain_Logistico.md",
+    "index.md",
+    "20_Conceptos/FSMA.md",
+    "Sin nombre",
+    "ingest.sh",
+    "30_Oportunidades",
+    "20_Conceptos",
+    "10_Entidades",
+    "00_Raw_Sources"
+  ]
+}
