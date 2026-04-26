@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Oportunidades/Trade_Compliance_Platform.md",
+                "file": "20_Conceptos/Apagon_Estadistico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trade_Compliance_Platform"
+              "title": "Apagon_Estadistico"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "20_Conceptos/Apagon_Estadistico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienvenido"
+              "title": "Enlaces entrantes de Apagon_Estadistico"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "20_Conceptos/Apagon_Estadistico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes de Apagon_Estadistico"
             }
           },
           {
@@ -171,21 +171,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "20_Conceptos/Apagon_Estadistico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienvenido"
+              "title": "Esquema de Apagon_Estadistico"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +200,25 @@
   },
   "active": "55992a3eda896997",
   "lastOpenFiles": [
+    "index.md",
+    "Bienvenido.md",
+    "Arbitraje_B2B.md",
+    "30_Oportunidades/Trazabilidad_Agro_Exportadora.md",
+    "log.md",
+    "30_Oportunidades/Data_as_a_Service_Geoespacial.md",
+    "10_Entidades/EANA.md",
+    "20_Conceptos/Apagon_Estadistico.md",
+    "20_Conceptos/Aduana_en_Factoria.md",
+    "20_Conceptos/Fiscalizacion_Punitiva.md",
+    "30_Oportunidades/Trade_Compliance_Platform.md",
+    "10_Entidades/SMN.md",
+    "00_Raw_Sources/2026-04-24_BORA_EANA_Desregulacion_Servicio_Meteorologico.md",
+    "00_Raw_Sources/2026-04-24_BORA_Decreto_273_Retiro_Concesion.md",
+    "00_Raw_Sources/2026-04-22_BORA_ARCA_RG_5838_Aduana_Offshore.md",
+    "00_Raw_Sources/2026-04-20_Noticias_UE_Endurecimiento_Controles_Agro.md",
+    "00_Raw_Sources/2026-04-20_BORA_SENASA_Res_233_Simplificacion_Agro.md",
     "30_Oportunidades/Esceptico_Quota_Intelligence_China.md",
     "30_Oportunidades/Quota_Intelligence_China.md",
-    "30_Oportunidades/Trade_Compliance_Platform.md",
     "00_Raw_Sources/analisis_esceptico_resumen_22-4.md",
     "30_Oportunidades/Esceptico_Trazabilidad_Agro_Exportadora.md",
     "30_Oportunidades/Esceptico_Carbon_Compliance_B2B.md",
@@ -210,22 +226,6 @@
     "30_Oportunidades/Airport_Tech_Stack.md",
     "20_Conceptos/Modelo_Datos_LabMatch.md",
     "30_Oportunidades/Aduana_as_a_Service.md",
-    "30_Oportunidades/Esceptico_Logistica_Privada_Corredores.md",
-    "30_Oportunidades/Esceptico_Certificacion_Inocuidad_Privada.md",
-    "30_Oportunidades/Esceptico_Aduana_as_a_Service.md",
-    "10_Entidades/ANPYN_Hidrovia.md",
-    "00_Raw_Sources/2026-04-22_Noticias_Hidrovia_Apertura_Sobre2.md",
-    "00_Raw_Sources/2026-04-22_Noticias_Aduana_Conflicto_Reforma_Codigo.md",
-    "00_Raw_Sources/2026-04-22_BORA_DNU_41_Resoluciones_Anticipadas_Aduana.md",
-    "log.md",
-    "30_Oportunidades/Carbon_Compliance_B2B.md",
-    "20_Conceptos/Resoluciones_Anticipadas.md",
-    "10_Entidades/Secretaria_Industria_Comercio.md",
-    "Prompt escéptico.md",
-    "20_Conceptos/Aduana_en_Factoria.md",
-    "20_Conceptos/Blockchain_Logistico.md",
-    "index.md",
-    "20_Conceptos/FSMA.md",
     "Sin nombre",
     "ingest.sh",
     "30_Oportunidades",

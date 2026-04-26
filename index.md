@@ -21,6 +21,8 @@
 * [[ENACOM]] - Couriers privados internacionales (Disp 6779/2026).
 * [[SAGYP]] - Aprobación biotecnológica corporativa (Res 43/2026).
 * [[Flybondi]] - Crisis operativa de low-cost domésticos.
+* [[SMN]] - Desplazado de la provisión monopólica aeronáutica.
+* [[EANA]] - Apertura B2B para datos meteorológicos aéreos.
 
 ## 🧠 Conceptos Core
 * [[EUDR]] - Reglamento de Deforestación de la UE.
@@ -43,6 +45,7 @@
 * [[Bioseguridad_Privada]] - Superación de estándares estatales mediante OGM corporativos.
 * [[Logistica_JIT_Minera]] - Burbujas operativas privadas para asegurar repuestos.
 * [[Charter_as_a_Service]] - Aviación ejecutiva consolidada B2B.
+* [[Apagon_Estadistico]] - Vacío de datos públicos y oráculos privados.
 
 ## 💰 Tesis y Oportunidades (Síntesis Activa)
 * [[Trazabilidad_Agro_Exportadora]] (EUDR / RFID / Satelital)
@@ -53,6 +56,7 @@
 * [[Quota_Intelligence_China]] (Logística de precisión ante el 55%)
 * [[Airport_Tech_Stack]] (SaaS para servicios de rampa privatizados)
 * [[Insurance_as_a_Service_Logistico]] (Blindaje Punitivo / Seguros Corporativos)
+* [[Data_as_a_Service_Geoespacial]] (Oráculo Climático y Agro-Aéreo)
 
 ## 📋 Registro
 * [[log]] - Historial de actualizaciones y fuentes ingeridas.
