@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Conceptos/Apagon_Estadistico.md",
+                "file": "20_Conceptos/Trazabilidad_de_Combustibles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apagon_Estadistico"
+              "title": "Trazabilidad_de_Combustibles"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Conceptos/Apagon_Estadistico.md",
+                "file": "20_Conceptos/Trazabilidad_de_Combustibles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Apagon_Estadistico"
+              "title": "Esquema de Trazabilidad_de_Combustibles"
             }
           }
         ],
@@ -200,17 +200,24 @@
   },
   "active": "55992a3eda896997",
   "lastOpenFiles": [
+    "log.md",
+    "30_Oportunidades/Trazabilidad_Agro_Exportadora.md",
+    "Arbitraje_B2B.md",
+    "30_Oportunidades/Aduana_as_a_Service.md",
+    "00_Raw_Sources/LA INCREIBLE HISTORIA DEL SERVICIO METEOROLÓGICO NACIONAL (SMN).md",
+    "30_Oportunidades/Certificacion_Inocuidad_Privada.md",
+    "10_Entidades/INTI.md",
+    "30_Oportunidades/Data_as_a_Service_Geoespacial.md",
+    "30_Oportunidades/Esceptico_Logistica_Privada_Corredores.md",
+    "30_Oportunidades/Trade_Compliance_Platform.md",
+    "20_Conceptos/Apagon_Estadistico.md",
+    "00_Raw_Sources/2026-04-24_BORA_Ley_27804_Reforma_Glaciares.md",
+    "00_Raw_Sources/2026-04-24_BORA_DNU_274_Meteorologia_Aeronautica.md",
     "index.md",
     "Bienvenido.md",
-    "Arbitraje_B2B.md",
-    "30_Oportunidades/Trazabilidad_Agro_Exportadora.md",
-    "log.md",
-    "30_Oportunidades/Data_as_a_Service_Geoespacial.md",
     "10_Entidades/EANA.md",
-    "20_Conceptos/Apagon_Estadistico.md",
     "20_Conceptos/Aduana_en_Factoria.md",
     "20_Conceptos/Fiscalizacion_Punitiva.md",
-    "30_Oportunidades/Trade_Compliance_Platform.md",
     "10_Entidades/SMN.md",
     "00_Raw_Sources/2026-04-24_BORA_EANA_Desregulacion_Servicio_Meteorologico.md",
     "00_Raw_Sources/2026-04-24_BORA_Decreto_273_Retiro_Concesion.md",
@@ -219,13 +226,6 @@
     "00_Raw_Sources/2026-04-20_BORA_SENASA_Res_233_Simplificacion_Agro.md",
     "30_Oportunidades/Esceptico_Quota_Intelligence_China.md",
     "30_Oportunidades/Quota_Intelligence_China.md",
-    "00_Raw_Sources/analisis_esceptico_resumen_22-4.md",
-    "30_Oportunidades/Esceptico_Trazabilidad_Agro_Exportadora.md",
-    "30_Oportunidades/Esceptico_Carbon_Compliance_B2B.md",
-    "30_Oportunidades/Esceptico_Airport_Tech_Stack.md",
-    "30_Oportunidades/Airport_Tech_Stack.md",
-    "20_Conceptos/Modelo_Datos_LabMatch.md",
-    "30_Oportunidades/Aduana_as_a_Service.md",
     "Sin nombre",
     "ingest.sh",
     "30_Oportunidades",

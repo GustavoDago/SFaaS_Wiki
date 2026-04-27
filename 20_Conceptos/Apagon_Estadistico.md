@@ -10,6 +10,7 @@ Históricamente, el mercado asume que el Estado es el oráculo neutral (ej. el c
 Este vacío de información fuerza al sector privado a construir sus propios **Oráculos de Datos (Data-as-a-Service)**. El actor privado que logre estandarizar un nuevo índice métrico, mapa de riesgo o certificación, se convierte en el estándar de facto y monopoliza la confianza del sector corporativo.
 
 ## Casos de Uso Concretos
-* Fin del monopolio del [[SMN]] sobre la navegación aérea ([[EANA]]).
-* Desfinanciamiento de los laboratorios del [[INTI]].
-* Despidos en los servicios de mapeo territorial del [[INTA]].
+* **Clima:** Fin del monopolio del [[SMN]] sobre la navegación aérea ([[EANA]]).
+* **Industria:** Desfinanciamiento de los laboratorios del [[INTI]].
+* **Agro:** Despidos en los servicios de mapeo territorial del [[INTA]].
+* **Minería:** Fragmentación del monitoreo hídrico nacional tras la reforma de glaciares (**Ley 27.804**), desplazando al [[IANIGLA]].

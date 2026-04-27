@@ -21,8 +21,10 @@
 * [[ENACOM]] - Couriers privados internacionales (Disp 6779/2026).
 * [[SAGYP]] - Aprobación biotecnológica corporativa (Res 43/2026).
 * [[Flybondi]] - Crisis operativa de low-cost domésticos.
-* [[SMN]] - Desplazado de la provisión monopólica aeronáutica.
-* [[EANA]] - Apertura B2B para datos meteorológicos aéreos.
+* [[SMN]] - Desmantelamiento y desregulación técnica (DNU 274/2026).
+* [[EANA]] - Apertura B2B para datos meteorológicos aéreos (DNU 274/2026).
+* [[IANIGLA]] - Pérdida de control federal sobre glaciares (Ley 27.804).
+* [[CORAS_SA]] - Fin del monopolio de marcadores de combustible.
 
 ## 🧠 Conceptos Core
 * [[EUDR]] - Reglamento de Deforestación de la UE.
@@ -46,6 +48,10 @@
 * [[Logistica_JIT_Minera]] - Burbujas operativas privadas para asegurar repuestos.
 * [[Charter_as_a_Service]] - Aviación ejecutiva consolidada B2B.
 * [[Apagon_Estadistico]] - Vacío de datos públicos y oráculos privados.
+* [[Meteorologia_as_a_Service]] - El nuevo estándar privado de seguridad aérea.
+* [[Trazabilidad_Hidrica_Privada]] - Auditoría trustless para minería post-IANIGLA.
+* [[Ley_de_Hojarascas]] - Gestión de compliance ante la eliminación de 15.000 normas.
+* [[Trazabilidad_de_Combustibles]] - Control químico y digital de flujo petrolero.
 
 ## 💰 Tesis y Oportunidades (Síntesis Activa)
 * [[Trazabilidad_Agro_Exportadora]] (EUDR / RFID / Satelital)
@@ -57,6 +63,8 @@
 * [[Airport_Tech_Stack]] (SaaS para servicios de rampa privatizados)
 * [[Insurance_as_a_Service_Logistico]] (Blindaje Punitivo / Seguros Corporativos)
 * [[Data_as_a_Service_Geoespacial]] (Oráculo Climático y Agro-Aéreo)
+* [[Certificacion_Ambiental_Minera]] (Compliance ESG / Monitoreo Glaciares)
+* [[Compliance_Combustibles_B2B]] (RegTech para trazadores de combustible)
 
 ## 📋 Registro
 * [[log]] - Historial de actualizaciones y fuentes ingeridas.

@@ -7,7 +7,7 @@ El Estado argentino está abandonando su rol histórico como único proveedor de
 **SaaS Geoespacial y Oráculo de Datos Privados**. Una plataforma de suscripción corporativa que ingiera datos de constelaciones de satélites privados, estaciones meteorológicas B2B y sensores IoT de los propios clientes, procesando esa inteligencia para generar los "nuevos índices oficiales" privados. 
 
 ## Casos de Monetización
-1. **Aviación Comercial (Aviation Weather-as-a-Service):** Vender el *feed* de alta precisión a aerolíneas y logística de carga que ya no pueden confiar en la lentitud de los radares estatales, evitando demoras millonarias y accidentes.
+1. **Aviación Comercial ([[Meteorologia_as_a_Service]]):** Vender el *feed* de alta precisión a aerolíneas y a la [[EANA]] (bajo el **DNU 274/2026**). El valor reside en reemplazar los procesos manuales del [[SMN]] por automatización IoT/Satélite, garantizando continuidad ante el recorte del 85% del personal estatal.
 2. **Aseguradoras del Agro:** Vender a los proveedores de [[Insurance_as_a_Service_Logistico]] el índice de sequía preciso, ya que los mapeos del INTA y el SMN no se actualizan lo suficientemente rápido para un modelo financiero en tiempo real.
 3. **Validación EUDR:** Utilizar este mismo sistema de mapeo satelital para vender trazabilidad de no-deforestación requerida por la [[Union_Europea_Regulaciones]], cruzándose con la [[Trazabilidad_Agro_Exportadora]].
 

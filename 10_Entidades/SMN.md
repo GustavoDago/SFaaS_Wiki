@@ -1,11 +1,18 @@
 # Servicio Meteorológico Nacional (SMN)
 
-## Estado Actual: Desplazado
-El SMN, tradicionalmente el proveedor oficial y monopólico de datos meteorológicos para el Estado argentino, ha sufrido un desplazamiento operativo crítico. Mediante DNU (Abril 2026), el Gobierno Nacional eliminó su exclusividad como proveedor del servicio meteorológico para la Navegación Aérea (MET) hacia la [[EANA]].
+## Estado Actual: Desmantelamiento y Desregulación
+El SMN ha perdido su exclusividad como proveedor único de datos para la navegación aérea mediante el **DNU 274/2026**. El organismo enfrenta una crisis de eficiencia terminal: procesos manuales obsoletos (planillas papel) y una estructura de personal sobredimensionada (1000 empleados para solo 20 meteorólogos).
+
+### Hitos de Desregulación
+* **DNU 274/2026:** Elimina la exclusividad MET (Servicio Meteorológico para la Navegación Aérea).
+* **Motosierra:** El Ministerio de Desregulación (Sturzenegger) ha planteado una reducción de hasta el **85% del personal**, buscando automatizar estaciones que hoy operan con 5-7 personas de forma manual.
+* **Desfinanciamiento:** Eliminación de la asignación automática del 10% de la Tasa de Protección al Vuelo.
 
 ## Implicancias SFaaS
-* **Apagón Técnico:** La incapacidad del SMN para mantener la eficiencia técnica frente a las exigencias modernas del mercado aerocomercial forzó su desregulación.
-* **Apertura de Mercado:** El retiro de su monopolio crea un mercado B2B virgen para proveedores privados de datos satelitales y meteorológicos ([[Data_as_a_Service_Geoespacial]]).
+* **Apagón Técnico:** La obsolescencia tecnológica (sistemas DOS, planillas físicas) genera un riesgo inminente de discontinuidad operativa.
+* **Apertura de Mercado:** El retiro de su monopolio crea un mercado B2B para proveedores privados que ofrezcan [[Meteorologia_as_a_Service]] con estándares internacionales.
 
 ## Fuentes
-* `2026-04-24_BORA_EANA_Desregulacion_Servicio_Meteorologico.md`
+* `2026-04-24_BORA_DNU_274_Meteorologia_Aeronautica.md`
+* `Investigacion_GROK_2026_04_25`
+* `LA INCREIBLE HISTORIA DEL SERVICIO METEOROLÓGICO NACIONAL (SMN).md`
